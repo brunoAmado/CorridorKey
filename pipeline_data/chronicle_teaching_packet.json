@@ -1,0 +1,14 @@
+{
+  "project": "CorridorKey",
+  "ux_engine_version": "2.8",
+  "storage_engine": "Unified PostgreSQL 17 (pgvector + Apache AGE + TimescaleDB)",
+  "rules_enforced": [
+    "RULE-10",
+    "RULE-11",
+    "RULE-12",
+    "RULE-13",
+    "RULE-14",
+    "RULE-15",
+    "RULE-16"
+  ]
+}
