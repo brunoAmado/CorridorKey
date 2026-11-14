@@ -1,14 +1,21 @@
 {
-  "project": "CorridorKey",
-  "ux_engine_version": "2.8",
-  "storage_engine": "Unified PostgreSQL 17 (pgvector + Apache AGE + TimescaleDB)",
-  "rules_enforced": [
-    "RULE-10",
-    "RULE-11",
-    "RULE-12",
-    "RULE-13",
-    "RULE-14",
-    "RULE-15",
-    "RULE-16"
+  "status": "ok",
+  "taught_by": "ChronicleRAG Golden Cortex (v2.8)",
+  "synced_at": "2026-11-13T23:46:47Z",
+  "service_name": "CorridorKey",
+  "cluster_id": "Standalone_VR_Games_and_3D",
+  "specialty": "AI Green-Screen & VFX Matting Studio",
+  "autonomous_parallel_execution_when_chronicle_busy": true,
+  "bitemporal_engine_delegate": "insight_core_io.BiTemporalPointInTimeEngine -> insight_timeline.engine (:8095)",
+  "ast_cartographer_delegate": "insight_code.engine.extract_polyglot_ast_map (:4013)",
+  "ip_and_trademark_delegate": "insight_patent.trademark_verifier.InsightPatentTrademarkVerifier.verify_patent_and_trademark_bundle (:8096 / /api/patent/delegate/verify-ip)",
+  "enforced_rules": [
+    "RULE-11 (PT/EU Statutory Governance: CNPD Lei 58/2019, EU AI Act 2024/1689, DL 82/2022 WCAG 2.2 AA, NIS2/CRA)",
+    "RULE-12 (Compact <10KB Payloads & Token-Budget Guard)",
+    "RULE-13 (ChronicleRAG-First Retrieval & 4-Tier Zero-Paid-Token LLM Failover)",
+    "RULE-14 (SetMiddle Specialty Delegation & Parallel Execution When ChronicleRAG Is Occupied)",
+    "RULE-15 (Slow Drip-Pace Execution & Automatic 1-Hour Retry Queue on Upstream Failure)",
+    "RULE-17 (Mandatory Patent, Prior-Art, Trademark & Zero-Leak RDAP Delegation to InsightPatent v2.0 + Antigravity Second-Eyes Audit)",
+    "RULE-CA-08..11 (Full SetMiddle Catalog, Bi-Temporal Delegation, 5-Layer DB/BDD AST Cartography & Teacher-Student Sync)"
   ]
 }
