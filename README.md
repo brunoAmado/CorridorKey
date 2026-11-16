@@ -1,5 +1,18 @@
 # CorridorKey
 
+<!-- PLAIN_ENGLISH_FIRST_START -->
+## 💬 Plain English First — What CorridorKey Is & Why It Exists
+
+**Pulls clean studio mattes from green-screen video—preserving fine hair, smoke, and motion blur 100% locally on your GPU.**
+
+Traditional chroma keyers leave ugly green halos or chop off hair and motion blur, while cloud AI video tools expose unreleased studio footage online. CorridorKey unmixes foreground colors in physically linear 16-bit light right on your local workstation.
+
+- **🎯 Exclusive Expert Role**: Owns physically linear 16-bit green-screen color unmixing, green-spill removal, and sub-pixel hair/motion-blur alpha matte extraction.
+- **1️⃣ Standalone Product**: Runs standalone for film editors, VFX artists, virtual production studios, and video creators.
+- **2️⃣ Linked to SetMiddle Products**: Integrates with ParallaxVR (volumetric stereo layers), InsightDesign, and ChronicleRAG's local ComfyUI media studio.
+- **3️⃣ External API · MCP · Plug-in**: Connects to ComfyUI node graphs, Blender/FFmpeg EXR pipelines, and REST/MCP batch shot-audit tools. (`GET http://localhost:8765/projects/corridorkey` · `MCP Tool: verify_linear_vfx_compositing_plate`)
+- **📖 Full Plain-English & Roadmap Guide**: [`docs/PLAIN_ENGLISH_GUIDE.md`](./docs/PLAIN_ENGLISH_GUIDE.md)
+<!-- PLAIN_ENGLISH_FIRST_END -->
 
 https://github.com/user-attachments/assets/1fb27ea8-bc91-4ebc-818f-5a3b5585af08
 
